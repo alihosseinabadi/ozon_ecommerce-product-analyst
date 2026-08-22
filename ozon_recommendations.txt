@@ -1,0 +1,16 @@
+OZON E-COMMERCE RECOMMENDATIONS
+1. [HIGH] Category Focus
+   Action: Focus on Одежда category - largest product selection
+   Why: Currently 2,042 products (20.4% of total)
+2. [HIGH] Brand Strategy
+   Action: Partner with Нет бренда for exclusive products or promotions
+   Why: Top brand with 710 products in catalog
+3. [MEDIUM] Category Expansion
+   Action: Expand product selection in Крупная бытовая техника
+   Why: High avg favorites (1624212000000000.0) with only 68 products
+4. [MEDIUM] Trending Products
+   Action: Increase inventory and marketing for trending products like "Дневник школьный, Кошечка, роз..."
+   Why: Product getting 3,280 recent favorites
+5. [LOW] Category Review
+   Action: Review underperforming categories
+   Why: 9 categories below average favorites per product
