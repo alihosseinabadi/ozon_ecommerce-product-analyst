@@ -15,3 +15,7 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large/regenerable artifacts
+archive/
+ozon_data_export.txt
